@@ -1,5 +1,3 @@
-# Testing CodePipeline Auto Trigger
-
 # Data Pipeline CI/CD Demo
 
 ETL Lambda (S3 → DynamoDB) with GitHub Actions CI and AWS CodePipeline CD.
