@@ -44,5 +44,4 @@ def lambda_handler(event, context):
         ),
     }
 
-
 # trigger test
